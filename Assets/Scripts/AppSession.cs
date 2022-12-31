@@ -1,4 +1,6 @@
-﻿public class AppSession
+﻿using Core.States;
+
+public class AppSession
 {
     public StateMachine StateMachine { get; }
 

@@ -78,7 +78,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   screenNavigator: {fileID: 3009130930620440898}
-  _audioService: {fileID: 2373179617396467730}
+  audioService: {fileID: 2373179617396467730}
 --- !u!1001 &7705977842260741298
 PrefabInstance:
   m_ObjectHideFlags: 0

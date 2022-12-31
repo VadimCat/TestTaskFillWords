@@ -1,6 +1,7 @@
-﻿using Ji2Core.Core.Audio;
-using UI.Screens;
+﻿using Core.Audio;
+using Core.States;
 using UnityEngine;
+using Views.UI.Screens;
 using Zenject;
 
 public class EntryPoint : MonoBehaviour, IInitializable
